@@ -1,0 +1,80 @@
+{
+  "criminals": [
+    {
+      "id": 3,
+      "name": "riya waghamare",
+      "age": 52,
+      "gender": "Female",
+      "crime_type": "fraud",
+      "crime_severity": "Low",
+      "prior_convictions": 7,
+      "last_known_location": "pune",
+      "status": "Wanted",
+      "photo_path": "uploads\\riya waghamare_82909266.jpg",
+      "height": 5.6,
+      "weight": 8.0,
+      "eye_color": null,
+      "hair_color": null,
+      "scars_marks": "",
+      "danger_level": "High",
+      "predicted_crime_type": "Drug Offense",
+      "recidivism_score": 1.0,
+      "created_at": "2025-12-31T21:23:37.569679",
+      "ai_models_used": [
+        "Decision Tree",
+        "Naive Bayes"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Unknown",
+      "age": null,
+      "gender": null,
+      "crime_type": "Assault",
+      "crime_severity": "Medium",
+      "prior_convictions": 0,
+      "last_known_location": null,
+      "status": "Wanted",
+      "photo_path": null,
+      "height": null,
+      "weight": null,
+      "eye_color": null,
+      "hair_color": null,
+      "scars_marks": null,
+      "danger_level": "Medium",
+      "predicted_crime_type": "Assault",
+      "recidivism_score": 0.0,
+      "created_at": "2026-01-11T17:30:27.354325",
+      "ai_models_used": [
+        "Decision Tree",
+        "Naive Bayes"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Unknown",
+      "age": null,
+      "gender": null,
+      "crime_type": "Assault",
+      "crime_severity": "Medium",
+      "prior_convictions": 0,
+      "last_known_location": null,
+      "status": "Wanted",
+      "photo_path": null,
+      "height": null,
+      "weight": null,
+      "eye_color": null,
+      "hair_color": null,
+      "scars_marks": null,
+      "danger_level": "Medium",
+      "predicted_crime_type": "Assault",
+      "recidivism_score": 0.0,
+      "created_at": "2026-01-11T17:30:29.177091",
+      "ai_models_used": [
+        "Decision Tree",
+        "Naive Bayes"
+      ]
+    }
+  ],
+  "last_updated": "2026-01-11T17:30:29.177115"
+}
